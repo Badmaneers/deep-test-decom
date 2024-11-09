@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_allow_text">Aontaigh</string>
+    <string name="color_hour">uair</string>
+    <string name="color_install_download_progress_textview">Íoslódáil</string>
+    <string name="color_keyboard_view_access_close_button">Leacaigh méarchlár</string>
+    <string name="color_keyboard_view_access_detail_button">Malartaigh go gnáth-mhéarchlár</string>
+    <string name="color_keyboard_view_keycode_low_shift">Malartaigh go cás íochtair</string>
+    <string name="color_keyboardview_keycode_letters">Malartaigh go haibítrí</string>
+    <string name="color_keyboardview_keycode_number">Malartaigh Uimhir</string>
+    <string name="color_keyboardview_keycode_shift">Malartaigh go cás uachtair</string>
+    <string name="color_keyboardview_keycode_symbol">Malartaigh go siombailí</string>
+    <string name="color_minute">nóiméad</string>
+    <string name="color_reject_text">Scoir</string>
+    <string name="color_search_view_text">Cealaigh</string>
+    <string name="color_security_alertdailog_privacy">Polasaí Príobháideachta</string>
+    <string name="color_security_alertdailog_statement">Tapáil agus féach ar %1$s le haghaidh níos mó eolais.</string>
+    <string name="color_security_alertdialog_checkbox_msg">Ná meabhraigh</string>
+    <string name="color_time_picker_today">Inniu</string>
+</resources>

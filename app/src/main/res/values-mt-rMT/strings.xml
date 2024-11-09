@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_allow_text">Naqbel</string>
+    <string name="color_hour">sigħat</string>
+    <string name="color_install_download_progress_textview">Download</string>
+    <string name="color_keyboard_view_access_close_button">Agħlaq għalkollox il-keyboard</string>
+    <string name="color_keyboard_view_access_detail_button">Aqleb għal keyboard normali</string>
+    <string name="color_keyboard_view_keycode_low_shift">Aqleb għal ittri żgħar</string>
+    <string name="color_keyboardview_keycode_letters">Aqleb għal alfabeti</string>
+    <string name="color_keyboardview_keycode_number">Ibdel in-Numru</string>
+    <string name="color_keyboardview_keycode_shift">Aqleb għal ittri kapitali</string>
+    <string name="color_keyboardview_keycode_symbol">Aqleb għal simboli</string>
+    <string name="color_minute">min</string>
+    <string name="color_reject_text">Oħroġ</string>
+    <string name="color_search_view_text">Ikkanċella</string>
+    <string name="color_security_alertdailog_privacy">Politika ta’ Privatezza</string>
+    <string name="color_security_alertdailog_statement">Itteppja u ara %1$s għal iktar informazzjoni.</string>
+    <string name="color_security_alertdialog_checkbox_msg">Terġa’ tistaqsi qatt</string>
+    <string name="color_time_picker_today">Illum</string>
+</resources>

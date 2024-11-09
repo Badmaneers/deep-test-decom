@@ -1,0 +1,45 @@
+package com.google.p066a.p071d;
+
+/* compiled from: JsonReader.java */
+/* renamed from: com.google.a.d.c */
+/* loaded from: classes.dex */
+final /* synthetic */ class C2003c {
+
+    /* renamed from: a */
+    static final /* synthetic */ int[] f8898a = new int[EnumC2004d.values().length];
+
+    static {
+        try {
+            f8898a[EnumC2004d.EMPTY_DOCUMENT.ordinal()] = 1;
+        } catch (NoSuchFieldError unused) {
+        }
+        try {
+            f8898a[EnumC2004d.EMPTY_ARRAY.ordinal()] = 2;
+        } catch (NoSuchFieldError unused2) {
+        }
+        try {
+            f8898a[EnumC2004d.NONEMPTY_ARRAY.ordinal()] = 3;
+        } catch (NoSuchFieldError unused3) {
+        }
+        try {
+            f8898a[EnumC2004d.EMPTY_OBJECT.ordinal()] = 4;
+        } catch (NoSuchFieldError unused4) {
+        }
+        try {
+            f8898a[EnumC2004d.DANGLING_NAME.ordinal()] = 5;
+        } catch (NoSuchFieldError unused5) {
+        }
+        try {
+            f8898a[EnumC2004d.NONEMPTY_OBJECT.ordinal()] = 6;
+        } catch (NoSuchFieldError unused6) {
+        }
+        try {
+            f8898a[EnumC2004d.NONEMPTY_DOCUMENT.ordinal()] = 7;
+        } catch (NoSuchFieldError unused7) {
+        }
+        try {
+            f8898a[EnumC2004d.CLOSED.ordinal()] = 8;
+        } catch (NoSuchFieldError unused8) {
+        }
+    }
+}

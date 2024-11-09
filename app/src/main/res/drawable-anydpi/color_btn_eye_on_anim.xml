@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f080098_color_btn_eye_on_anim__0">
+    <target
+        android:name="_R_G_L_1_G_D_0_P_0"
+        android:animation="@drawable/res_0x7f080099_color_btn_eye_on_anim__1"/>
+    <target
+        android:name="_R_G_L_0_G_D_0_P_0"
+        android:animation="@drawable/res_0x7f08009a_color_btn_eye_on_anim__2"/>
+    <target
+        android:name="_R_G_L_1_G"
+        android:animation="@drawable/res_0x7f08009b_color_btn_eye_on_anim__3"/>
+    <target
+        android:name="_R_G_L_0_G"
+        android:animation="@drawable/res_0x7f08009c_color_btn_eye_on_anim__4"/>
+    <target
+        android:name="time_group"
+        android:animation="@drawable/res_0x7f08009d_color_btn_eye_on_anim__5"/>
+</animated-vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_popup_list_window_item_icon_margin_left">0dp</dimen>
+    <dimen name="color_popup_list_window_item_icon_margin_right">16dp</dimen>
+    <dimen name="color_popup_list_window_item_title_margin_left">24dp</dimen>
+    <dimen name="color_popup_list_window_item_title_margin_right">16dp</dimen>
+    <dimen name="color_popup_list_window_min_width">116dp</dimen>
+</resources>

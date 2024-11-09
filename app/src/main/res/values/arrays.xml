@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_lunar_mounth">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>腊月</item>
+    </array>
+    <array name="color_number_keyboard_letters">
+        <item />
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+        <item />
+        <item />
+        <item />
+    </array>
+    <array name="color_security_numeric_keyboard_special_symbol">
+        <item>*</item>
+        <item>-</item>
+        <item>@</item>
+        <item>$</item>
+    </array>
+    <array name="color_solor_mounth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+    <array name="color_theme_arrays_first">
+        <item>@style/SupportOverlay.Theme.Green.First</item>
+        <item>@style/SupportOverlay.Theme.Red.First</item>
+        <item>@style/SupportOverlay.Theme.Yellow.First</item>
+        <item>@style/SupportOverlay.Theme.SkyBlue.First</item>
+        <item>@style/SupportOverlay.Theme.Blue.First</item>
+        <item>@style/SupportOverlay.Theme.Orange.First</item>
+    </array>
+    <array name="color_theme_arrays_fourth">
+        <item>@style/SupportOverlay.Theme.Green.Fourth</item>
+        <item>@style/SupportOverlay.Theme.Red.Fourth</item>
+        <item>@style/SupportOverlay.Theme.Yellow.Fourth</item>
+        <item>@style/SupportOverlay.Theme.SkyBlue.Fourth</item>
+        <item>@style/SupportOverlay.Theme.Blue.Fourth</item>
+        <item>@style/SupportOverlay.Theme.Orange.Fourth</item>
+    </array>
+    <array name="color_theme_arrays_second">
+        <item>@style/SupportOverlay.Theme.Green.Second</item>
+        <item>@style/SupportOverlay.Theme.Red.Second</item>
+        <item>@style/SupportOverlay.Theme.Yellow.Second</item>
+        <item>@style/SupportOverlay.Theme.SkyBlue.Second</item>
+        <item>@style/SupportOverlay.Theme.Blue.Second</item>
+        <item>@style/SupportOverlay.Theme.Orange.Second</item>
+    </array>
+    <array name="color_theme_arrays_single">
+        <item>@style/SupportOverlay.Theme.Single.First</item>
+        <item>@style/SupportOverlay.Theme.Single.Second</item>
+        <item>@style/SupportOverlay.Theme.Single.Third</item>
+        <item>@style/SupportOverlay.Theme.Single.Fourth</item>
+        <item>@style/SupportOverlay.Theme.Single.Fifth</item>
+        <item>@style/SupportOverlay.Theme.Single.Sixth</item>
+        <item>@style/SupportOverlay.Theme.Single.Seventh</item>
+        <item>@style/SupportOverlay.Theme.Single.Eighth</item>
+        <item>@style/SupportOverlay.Theme.Single.Ninth</item>
+        <item>@style/SupportOverlay.Theme.Single.Tenth</item>
+    </array>
+    <array name="color_theme_arrays_third">
+        <item>@style/SupportOverlay.Theme.Green.Third</item>
+        <item>@style/SupportOverlay.Theme.Red.Third</item>
+        <item>@style/SupportOverlay.Theme.Yellow.Third</item>
+        <item>@style/SupportOverlay.Theme.SkyBlue.Third</item>
+        <item>@style/SupportOverlay.Theme.Blue.Third</item>
+        <item>@style/SupportOverlay.Theme.Orange.Third</item>
+    </array>
+    <array name="normal_touchsearch_keys">
+        <item>*</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>#</item>
+    </array>
+    <array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="special_touchsearch_keys">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>#</item>
+    </array>
+    <array name="union_touchsearch_keys">
+        <item>*</item>
+        <item>A</item>
+        <item>•</item>
+        <item>D</item>
+        <item>•</item>
+        <item>G</item>
+        <item>•</item>
+        <item>I</item>
+        <item>•</item>
+        <item>L</item>
+        <item>•</item>
+        <item>O</item>
+        <item>•</item>
+        <item>R</item>
+        <item>•</item>
+        <item>T</item>
+        <item>•</item>
+        <item>W</item>
+        <item>•</item>
+        <item>Z</item>
+        <item>#</item>
+    </array>
+</resources>

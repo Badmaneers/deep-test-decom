@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_allow_text">Aceptar</string>
+    <string name="color_hour">h</string>
+    <string name="color_install_download_progress_textview">Descargar</string>
+    <string name="color_minute">min</string>
+    <string name="color_reject_text">Salir</string>
+    <string name="color_search_view_text">Cancelar</string>
+    <string name="color_security_alertdailog_privacy">Política de privacidad</string>
+    <string name="color_security_alertdailog_statement">Para obtener información adicional, vea \"%1$s\".</string>
+    <string name="color_security_alertdialog_checkbox_msg">No preguntar de nuevo</string>
+    <string name="color_slide_delete">Borrar</string>
+    <string name="color_time_picker_today">Hoy</string>
+    <string name="oppo_lunar_leap_string">闰</string>
+    <string name="support_abc_searchview_description_clear">Borrar consulta</string>
+    <string name="support_abc_searchview_description_search">Buscar</string>
+    <string name="support_abc_searchview_description_submit">Enviar consulta</string>
+    <string name="support_abc_searchview_description_voice">Búsqueda por voz</string>
+</resources>

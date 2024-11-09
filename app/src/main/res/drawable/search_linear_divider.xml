@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size
+        android:height="12dp"
+        android:width="@dimen/color_search_linear_divider_width"/>
+    <solid android:color="@color/color_search_view_linear_divider_color"/>
+</shape>

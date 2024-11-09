@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_loading">جۇكتەلۋ ۇستىندە</string>
+    <string name="switch_off">جابۋ</string>
+    <string name="switch_on">اشۋ</string>
+</resources>

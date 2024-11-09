@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_keyboard_view_access_close_button">Tastatur reduzéieren</string>
+    <string name="color_keyboard_view_access_detail_button">Op déi regulär Tastatur ëmschalten</string>
+    <string name="color_keyboard_view_keycode_low_shift">Op Minusculen ëmschalten</string>
+    <string name="color_keyboardview_keycode_letters">Op Alphabeter ëmschalten</string>
+    <string name="color_keyboardview_keycode_number">Nummer wiesselen</string>
+    <string name="color_keyboardview_keycode_shift">Op Majusculë ëmschalten</string>
+    <string name="color_keyboardview_keycode_symbol">Op Symboler ëmschalten</string>
+    <string name="color_security_alertdailog_privacy">Dateschutzrichtlinn</string>
+    <string name="color_security_alertdailog_statement">Klickt a kuckt %1$s fir méi Informatiounen.</string>
+</resources>
